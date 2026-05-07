@@ -1,0 +1,121 @@
+{
+  "company": {
+    "name": "KI Bharath Solar Energies",
+    "tagline": "Trusted Solar Solutions Provider in Tamil Nadu",
+    "headOffice": "Thoothukudi, Tamil Nadu",
+    "experience": "8+ Years",
+    "installations": "500+",
+    "phone": "+91 9791744224",
+    "whatsapp": "https://wa.me/919791744224",
+    "whatsappNumber": "919791744224",
+    "email": "kibharathsolar@gmail.com",
+    "address": "No. 12/45, Palayamkottai Road, Thoothukudi – 628002, Tamil Nadu",
+    "serviceAreas": ["Thoothukudi", "Tirunelveli", "Madurai", "Virudhunagar", "Ramanathapuram", "Kanyakumari"],
+    "branches": [
+      { "city": "Thoothukudi", "address": "No. 12/45, Palayamkottai Road, Thoothukudi – 628002", "type": "Head Office" },
+      { "city": "Tirunelveli", "address": "No. 23, South Bypass Road, Tirunelveli – 627005" },
+      { "city": "Madurai", "address": "No. 78, KK Nagar Main Road, Madurai – 625020" },
+      { "city": "Virudhunagar", "address": "No. 10, Collector Office Road, Virudhunagar – 626001" }
+    ]
+  },
+  "services": [
+    { "name": "Solar Panel Installation", "types": ["Residential", "Commercial", "Industrial"], "keywords": ["install", "panel", "setup", "fix"] },
+    { "name": "On-Grid Solar Systems", "description": "Connected to government EB grid, excess power sold back", "keywords": ["on grid", "ongrid", "grid", "net meter"] },
+    { "name": "Off-Grid Solar Systems", "description": "Independent system with battery backup, works without grid", "keywords": ["off grid", "offgrid", "battery backup", "no grid"] },
+    { "name": "Hybrid Solar Systems", "description": "Both on-grid and battery backup combined", "keywords": ["hybrid", "both grid and battery"] },
+    { "name": "Solar Maintenance & AMC", "description": "Annual maintenance contract, cleaning, checks", "keywords": ["maintenance", "service", "amc", "repair", "cleaning"] },
+    { "name": "Battery Installation & Replacement", "keywords": ["battery", "backup", "replace"] },
+    { "name": "Inverter Installation & Repair", "keywords": ["inverter", "ups"] },
+    { "name": "Solar Site Inspection", "keywords": ["inspection", "visit", "survey", "site"] },
+    { "name": "Subsidy Assistance", "description": "Help with PM Surya Ghar scheme paperwork", "keywords": ["subsidy", "government", "scheme", "pm surya", "free solar"] }
+  ],
+  "products": {
+    "panels": {
+      "brands": ["Tata Solar", "Adani Solar", "Loom Solar"],
+      "types": ["Mono PERC", "Polycrystalline"],
+      "priceRange": "₹28,000 – ₹45,000 per kW",
+      "keywords": ["panel", "tata", "adani", "loom", "mono", "poly"]
+    },
+    "inverters": {
+      "brands": ["Luminous", "Microtek", "Growatt", "Delta"],
+      "types": ["On-grid", "Off-grid", "Hybrid"],
+      "priceRange": "₹15,000 – ₹80,000",
+      "keywords": ["inverter", "luminous", "microtek", "growatt", "delta"]
+    },
+    "batteries": {
+      "brands": ["Exide", "Amaron", "Luminous", "Livguard"],
+      "types": ["Tubular", "Lithium-ion"],
+      "priceRange": "₹10,000 – ₹1,20,000",
+      "keywords": ["battery", "exide", "amaron", "livguard", "tubular", "lithium"]
+    }
+  },
+  "pricing": {
+    "costPerKw": "₹60,000 – ₹75,000",
+    "costPerKwNum": 65000,
+    "subsidyUpTo3kw": "₹30,000 – ₹78,000",
+    "subsidyScheme": "PM Surya Ghar Yojana",
+    "emiAvailable": true
+  },
+  "calculations": {
+    "unitsPerRupee": 7,
+    "kWPerUnits": 120,
+    "costPerKw": 65000,
+    "description": "Monthly EB bill / 7 = monthly units. Units / 120 = kW required. kW × 65000 = estimated cost."
+  },
+  "faqs": [
+    {
+      "question": "How much does solar installation cost?",
+      "answer": "Solar system costs approximately ₹60,000–₹75,000 per kW. A typical 3 kW home system costs around ₹1.95 lakh before subsidy. After PM Surya Ghar subsidy, you save ₹30,000–₹78,000.",
+      "keywords": ["cost", "price", "how much", "rate", "charge", "fees"]
+    },
+    {
+      "question": "How much can I save on EB bill?",
+      "answer": "Solar can reduce your EB bill by 80–95%. A 3 kW system generates about 360 units/month, saving approx ₹2,500–₹3,500 per month depending on your tariff. Payback period is typically 4–5 years.",
+      "keywords": ["save", "reduce", "bill", "savings", "eb bill", "electricity"]
+    },
+    {
+      "question": "Is government subsidy available?",
+      "answer": "Yes! Under PM Surya Ghar Yojana: Up to 3 kW: ₹30,000–₹78,000 subsidy. Above 3 kW: Additional benefits. We handle all subsidy paperwork at no extra charge.",
+      "keywords": ["subsidy", "government", "free", "scheme", "pm surya", "benefit"]
+    },
+    {
+      "question": "How long will solar panels last?",
+      "answer": "Quality solar panels last 25–30 years with proper maintenance. We use Tata, Adani, and Loom Solar panels that come with 25-year performance warranty and 10-year product warranty.",
+      "keywords": ["last", "life", "warranty", "years", "durable", "how long"]
+    },
+    {
+      "question": "What maintenance is required?",
+      "answer": "Solar systems need minimal maintenance: monthly cleaning of panels, annual inverter checkup. We offer AMC (Annual Maintenance Contract) starting from ₹2,000/year covering cleaning, inspection, and minor repairs.",
+      "keywords": ["maintenance", "clean", "service", "care", "amc"]
+    },
+    {
+      "question": "Can solar work during power cuts?",
+      "answer": "It depends on the system type. Off-grid and hybrid systems with batteries work during power cuts. On-grid systems stop during power cuts (safety regulation). For 24/7 power, we recommend a hybrid system.",
+      "keywords": ["power cut", "outage", "current cut", "blackout", "no power", "shutdown"]
+    },
+    {
+      "question": "How much space is needed?",
+      "answer": "Approximately 10 sq ft per panel. A 3 kW system needs about 200–250 sq ft of rooftop space. We do a free site inspection to confirm your roof's suitability.",
+      "keywords": ["space", "area", "roof", "sqft", "size", "how big"]
+    },
+    {
+      "question": "How long does installation take?",
+      "answer": "A standard residential installation takes 1–3 days. Commercial systems may take 3–7 days. After payment, we complete survey to commissioning in under 2 weeks.",
+      "keywords": ["time", "how long", "days", "install time", "complete"]
+    },
+    {
+      "question": "Do you provide EMI options?",
+      "answer": "Yes, we offer flexible EMI options through our banking partners. 0% EMI for 12 months available on select plans. Contact us for customized financing.",
+      "keywords": ["emi", "loan", "finance", "monthly", "installment", "pay"]
+    },
+    {
+      "question": "What warranty do you provide?",
+      "answer": "Panel: 25 years performance + 10 years product warranty. Inverter: 5 years warranty. Battery: 3–5 years warranty. Our workmanship warranty: 2 years on installation.",
+      "keywords": ["warranty", "guarantee", "assurance"]
+    }
+  ],
+  "greetings": {
+    "tamil": "வணக்கம்! நான் KI Bharath Solar-இன் AI உதவியாளர். சோலார் பற்றி எந்த கேள்வியும் கேளுங்கள்!",
+    "english": "Hello! I'm the AI assistant for KI Bharath Solar Energies. I can help you with solar system queries, pricing, calculations, and more!"
+  }
+}
