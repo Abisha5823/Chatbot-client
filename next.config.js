@@ -6,12 +6,8 @@ const nextConfig = {
         source: "/(.*)",
         headers: [
           {
-            key: "X-Frame-Options",
-            value: "ALLOWALL",
-          },
-          {
             key: "Content-Security-Policy",
-            value: "frame-ancestors *;",
+            value: "frame-ancestors *",
           },
         ],
       },
@@ -19,4 +15,4 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig;
+export default nextConfig;
